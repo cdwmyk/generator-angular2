@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/swirlycheetah/generator-angular2.git"
   },
-  "author": "Chris Wheatley <chriswheatley87@gmail.com>",
+  "author": "Chris Wheatley <>",
   "bugs": {
     "url": "https://github.com/swirlycheetah/generator-angular2/issues"
   },
